@@ -3,5 +3,4 @@
 Wordcloud of different food aisles on Instacart, sized by number of sales.
 
 
-Reference-style: 
-![Instacart wordcloud][/instacart_wc.png "Instacart wordcloud"]
+[wordcloud]: Data-Viz-with-DiagrammeR-and-wordcloud/instacart_wc.png "Instacart wordcloud"
